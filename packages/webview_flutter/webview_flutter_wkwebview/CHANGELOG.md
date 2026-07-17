@@ -1,3 +1,9 @@
+## 3.26.0
+
+* Adds support for loading resources with custom URL schemes via
+  `WebKitWebViewControllerCreationParams.urlSchemeHandlers`, backed by the
+  native `WKURLSchemeHandler` API.
+
 ## 3.25.1
 
 * Relands update to prevent message calls when application will terminate.

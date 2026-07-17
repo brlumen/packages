@@ -31,82 +31,255 @@ class _FakePigeonInstanceManager_0 extends _i1.SmartFake
     : super(parent, parentInvocation);
 }
 
-class _FakeUIScrollView_1 extends _i1.SmartFake implements _i2.UIScrollView {
-  _FakeUIScrollView_1(Object parent, Invocation parentInvocation)
+class _FakeHTTPURLResponse_1 extends _i1.SmartFake
+    implements _i2.HTTPURLResponse {
+  _FakeHTTPURLResponse_1(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeUIScrollViewDelegate_2 extends _i1.SmartFake
+class _FakeNSError_2 extends _i1.SmartFake implements _i2.NSError {
+  _FakeNSError_2(Object parent, Invocation parentInvocation)
+    : super(parent, parentInvocation);
+}
+
+class _FakeUIScrollView_3 extends _i1.SmartFake implements _i2.UIScrollView {
+  _FakeUIScrollView_3(Object parent, Invocation parentInvocation)
+    : super(parent, parentInvocation);
+}
+
+class _FakeUIScrollViewDelegate_4 extends _i1.SmartFake
     implements _i2.UIScrollViewDelegate {
-  _FakeUIScrollViewDelegate_2(Object parent, Invocation parentInvocation)
+  _FakeUIScrollViewDelegate_4(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeURL_3 extends _i1.SmartFake implements _i2.URL {
-  _FakeURL_3(Object parent, Invocation parentInvocation)
+class _FakeURL_5 extends _i1.SmartFake implements _i2.URL {
+  _FakeURL_5(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeURLRequest_4 extends _i1.SmartFake implements _i2.URLRequest {
-  _FakeURLRequest_4(Object parent, Invocation parentInvocation)
+class _FakeURLRequest_6 extends _i1.SmartFake implements _i2.URLRequest {
+  _FakeURLRequest_6(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeWKPreferences_5 extends _i1.SmartFake implements _i2.WKPreferences {
-  _FakeWKPreferences_5(Object parent, Invocation parentInvocation)
+class _FakeWKURLSchemeTask_7 extends _i1.SmartFake
+    implements _i2.WKURLSchemeTask {
+  _FakeWKURLSchemeTask_7(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeWKScriptMessageHandler_6 extends _i1.SmartFake
+class _FakeWKPreferences_8 extends _i1.SmartFake implements _i2.WKPreferences {
+  _FakeWKPreferences_8(Object parent, Invocation parentInvocation)
+    : super(parent, parentInvocation);
+}
+
+class _FakeWKScriptMessageHandler_9 extends _i1.SmartFake
     implements _i2.WKScriptMessageHandler {
-  _FakeWKScriptMessageHandler_6(Object parent, Invocation parentInvocation)
+  _FakeWKScriptMessageHandler_9(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeWKUserContentController_7 extends _i1.SmartFake
+class _FakeWKUserContentController_10 extends _i1.SmartFake
     implements _i2.WKUserContentController {
-  _FakeWKUserContentController_7(Object parent, Invocation parentInvocation)
+  _FakeWKUserContentController_10(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeWKUserScript_8 extends _i1.SmartFake implements _i2.WKUserScript {
-  _FakeWKUserScript_8(Object parent, Invocation parentInvocation)
+class _FakeWKUserScript_11 extends _i1.SmartFake implements _i2.WKUserScript {
+  _FakeWKUserScript_11(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeWKWebView_9 extends _i1.SmartFake implements _i2.WKWebView {
-  _FakeWKWebView_9(Object parent, Invocation parentInvocation)
+class _FakeWKWebView_12 extends _i1.SmartFake implements _i2.WKWebView {
+  _FakeWKWebView_12(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeWKWebsiteDataStore_10 extends _i1.SmartFake
+class _FakeWKWebsiteDataStore_13 extends _i1.SmartFake
     implements _i2.WKWebsiteDataStore {
-  _FakeWKWebsiteDataStore_10(Object parent, Invocation parentInvocation)
+  _FakeWKWebsiteDataStore_13(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeWKWebpagePreferences_11 extends _i1.SmartFake
+class _FakeWKWebpagePreferences_14 extends _i1.SmartFake
     implements _i2.WKWebpagePreferences {
-  _FakeWKWebpagePreferences_11(Object parent, Invocation parentInvocation)
+  _FakeWKWebpagePreferences_14(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeWKWebViewConfiguration_12 extends _i1.SmartFake
+class _FakeWKWebViewConfiguration_15 extends _i1.SmartFake
     implements _i2.WKWebViewConfiguration {
-  _FakeWKWebViewConfiguration_12(Object parent, Invocation parentInvocation)
+  _FakeWKWebViewConfiguration_15(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeUIViewWKWebView_13 extends _i1.SmartFake
+class _FakeUIViewWKWebView_16 extends _i1.SmartFake
     implements _i2.UIViewWKWebView {
-  _FakeUIViewWKWebView_13(Object parent, Invocation parentInvocation)
+  _FakeUIViewWKWebView_16(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
 }
 
-class _FakeWKHTTPCookieStore_14 extends _i1.SmartFake
+class _FakeWKHTTPCookieStore_17 extends _i1.SmartFake
     implements _i2.WKHTTPCookieStore {
-  _FakeWKHTTPCookieStore_14(Object parent, Invocation parentInvocation)
+  _FakeWKHTTPCookieStore_17(Object parent, Invocation parentInvocation)
     : super(parent, parentInvocation);
+}
+
+/// A class which mocks [HTTPURLResponse].
+///
+/// See the documentation for Mockito's code generation for more information.
+class MockHTTPURLResponse extends _i1.Mock implements _i2.HTTPURLResponse {
+  @override
+  int get statusCode =>
+      (super.noSuchMethod(
+            Invocation.getter(#statusCode),
+            returnValue: 0,
+            returnValueForMissingStub: 0,
+          )
+          as int);
+
+  @override
+  _i2.PigeonInstanceManager get pigeon_instanceManager =>
+      (super.noSuchMethod(
+            Invocation.getter(#pigeon_instanceManager),
+            returnValue: _FakePigeonInstanceManager_0(
+              this,
+              Invocation.getter(#pigeon_instanceManager),
+            ),
+            returnValueForMissingStub: _FakePigeonInstanceManager_0(
+              this,
+              Invocation.getter(#pigeon_instanceManager),
+            ),
+          )
+          as _i2.PigeonInstanceManager);
+
+  @override
+  _i2.HTTPURLResponse pigeon_copy() =>
+      (super.noSuchMethod(
+            Invocation.method(#pigeon_copy, []),
+            returnValue: _FakeHTTPURLResponse_1(
+              this,
+              Invocation.method(#pigeon_copy, []),
+            ),
+            returnValueForMissingStub: _FakeHTTPURLResponse_1(
+              this,
+              Invocation.method(#pigeon_copy, []),
+            ),
+          )
+          as _i2.HTTPURLResponse);
+
+  @override
+  _i3.Future<void> addObserver(
+    _i2.NSObject? observer,
+    String? keyPath,
+    List<_i2.KeyValueObservingOptions>? options,
+  ) =>
+      (super.noSuchMethod(
+            Invocation.method(#addObserver, [observer, keyPath, options]),
+            returnValue: _i3.Future<void>.value(),
+            returnValueForMissingStub: _i3.Future<void>.value(),
+          )
+          as _i3.Future<void>);
+
+  @override
+  _i3.Future<void> removeObserver(_i2.NSObject? observer, String? keyPath) =>
+      (super.noSuchMethod(
+            Invocation.method(#removeObserver, [observer, keyPath]),
+            returnValue: _i3.Future<void>.value(),
+            returnValueForMissingStub: _i3.Future<void>.value(),
+          )
+          as _i3.Future<void>);
+}
+
+/// A class which mocks [NSError].
+///
+/// See the documentation for Mockito's code generation for more information.
+class MockNSError extends _i1.Mock implements _i2.NSError {
+  @override
+  int get code =>
+      (super.noSuchMethod(
+            Invocation.getter(#code),
+            returnValue: 0,
+            returnValueForMissingStub: 0,
+          )
+          as int);
+
+  @override
+  String get domain =>
+      (super.noSuchMethod(
+            Invocation.getter(#domain),
+            returnValue: _i4.dummyValue<String>(
+              this,
+              Invocation.getter(#domain),
+            ),
+            returnValueForMissingStub: _i4.dummyValue<String>(
+              this,
+              Invocation.getter(#domain),
+            ),
+          )
+          as String);
+
+  @override
+  Map<String, Object?> get userInfo =>
+      (super.noSuchMethod(
+            Invocation.getter(#userInfo),
+            returnValue: <String, Object?>{},
+            returnValueForMissingStub: <String, Object?>{},
+          )
+          as Map<String, Object?>);
+
+  @override
+  _i2.PigeonInstanceManager get pigeon_instanceManager =>
+      (super.noSuchMethod(
+            Invocation.getter(#pigeon_instanceManager),
+            returnValue: _FakePigeonInstanceManager_0(
+              this,
+              Invocation.getter(#pigeon_instanceManager),
+            ),
+            returnValueForMissingStub: _FakePigeonInstanceManager_0(
+              this,
+              Invocation.getter(#pigeon_instanceManager),
+            ),
+          )
+          as _i2.PigeonInstanceManager);
+
+  @override
+  _i2.NSError pigeon_copy() =>
+      (super.noSuchMethod(
+            Invocation.method(#pigeon_copy, []),
+            returnValue: _FakeNSError_2(
+              this,
+              Invocation.method(#pigeon_copy, []),
+            ),
+            returnValueForMissingStub: _FakeNSError_2(
+              this,
+              Invocation.method(#pigeon_copy, []),
+            ),
+          )
+          as _i2.NSError);
+
+  @override
+  _i3.Future<void> addObserver(
+    _i2.NSObject? observer,
+    String? keyPath,
+    List<_i2.KeyValueObservingOptions>? options,
+  ) =>
+      (super.noSuchMethod(
+            Invocation.method(#addObserver, [observer, keyPath, options]),
+            returnValue: _i3.Future<void>.value(),
+            returnValueForMissingStub: _i3.Future<void>.value(),
+          )
+          as _i3.Future<void>);
+
+  @override
+  _i3.Future<void> removeObserver(_i2.NSObject? observer, String? keyPath) =>
+      (super.noSuchMethod(
+            Invocation.method(#removeObserver, [observer, keyPath]),
+            returnValue: _i3.Future<void>.value(),
+            returnValueForMissingStub: _i3.Future<void>.value(),
+          )
+          as _i3.Future<void>);
 }
 
 /// A class which mocks [UIScrollView].
@@ -233,11 +406,11 @@ class MockUIScrollView extends _i1.Mock implements _i2.UIScrollView {
   _i2.UIScrollView pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeUIScrollView_1(
+            returnValue: _FakeUIScrollView_3(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeUIScrollView_1(
+            returnValueForMissingStub: _FakeUIScrollView_3(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
@@ -309,11 +482,11 @@ class MockUIScrollViewDelegate extends _i1.Mock
   _i2.UIScrollViewDelegate pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeUIScrollViewDelegate_2(
+            returnValue: _FakeUIScrollViewDelegate_4(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeUIScrollViewDelegate_2(
+            returnValueForMissingStub: _FakeUIScrollViewDelegate_4(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
@@ -385,8 +558,8 @@ class MockURL extends _i1.Mock implements _i2.URL {
   _i2.URL pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeURL_3(this, Invocation.method(#pigeon_copy, [])),
-            returnValueForMissingStub: _FakeURL_3(
+            returnValue: _FakeURL_5(this, Invocation.method(#pigeon_copy, [])),
+            returnValueForMissingStub: _FakeURL_5(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
@@ -502,16 +675,121 @@ class MockURLRequest extends _i1.Mock implements _i2.URLRequest {
   _i2.URLRequest pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeURLRequest_4(
+            returnValue: _FakeURLRequest_6(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeURLRequest_4(
+            returnValueForMissingStub: _FakeURLRequest_6(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
           )
           as _i2.URLRequest);
+
+  @override
+  _i3.Future<void> addObserver(
+    _i2.NSObject? observer,
+    String? keyPath,
+    List<_i2.KeyValueObservingOptions>? options,
+  ) =>
+      (super.noSuchMethod(
+            Invocation.method(#addObserver, [observer, keyPath, options]),
+            returnValue: _i3.Future<void>.value(),
+            returnValueForMissingStub: _i3.Future<void>.value(),
+          )
+          as _i3.Future<void>);
+
+  @override
+  _i3.Future<void> removeObserver(_i2.NSObject? observer, String? keyPath) =>
+      (super.noSuchMethod(
+            Invocation.method(#removeObserver, [observer, keyPath]),
+            returnValue: _i3.Future<void>.value(),
+            returnValueForMissingStub: _i3.Future<void>.value(),
+          )
+          as _i3.Future<void>);
+}
+
+/// A class which mocks [WKURLSchemeTask].
+///
+/// See the documentation for Mockito's code generation for more information.
+class MockWKURLSchemeTask extends _i1.Mock implements _i2.WKURLSchemeTask {
+  @override
+  _i2.URLRequest get request =>
+      (super.noSuchMethod(
+            Invocation.getter(#request),
+            returnValue: _FakeURLRequest_6(this, Invocation.getter(#request)),
+            returnValueForMissingStub: _FakeURLRequest_6(
+              this,
+              Invocation.getter(#request),
+            ),
+          )
+          as _i2.URLRequest);
+
+  @override
+  _i2.PigeonInstanceManager get pigeon_instanceManager =>
+      (super.noSuchMethod(
+            Invocation.getter(#pigeon_instanceManager),
+            returnValue: _FakePigeonInstanceManager_0(
+              this,
+              Invocation.getter(#pigeon_instanceManager),
+            ),
+            returnValueForMissingStub: _FakePigeonInstanceManager_0(
+              this,
+              Invocation.getter(#pigeon_instanceManager),
+            ),
+          )
+          as _i2.PigeonInstanceManager);
+
+  @override
+  _i3.Future<void> didReceiveResponse(_i2.URLResponse? response) =>
+      (super.noSuchMethod(
+            Invocation.method(#didReceiveResponse, [response]),
+            returnValue: _i3.Future<void>.value(),
+            returnValueForMissingStub: _i3.Future<void>.value(),
+          )
+          as _i3.Future<void>);
+
+  @override
+  _i3.Future<void> didReceiveData(_i5.Uint8List? data) =>
+      (super.noSuchMethod(
+            Invocation.method(#didReceiveData, [data]),
+            returnValue: _i3.Future<void>.value(),
+            returnValueForMissingStub: _i3.Future<void>.value(),
+          )
+          as _i3.Future<void>);
+
+  @override
+  _i3.Future<void> didFinish() =>
+      (super.noSuchMethod(
+            Invocation.method(#didFinish, []),
+            returnValue: _i3.Future<void>.value(),
+            returnValueForMissingStub: _i3.Future<void>.value(),
+          )
+          as _i3.Future<void>);
+
+  @override
+  _i3.Future<void> didFailWithError(_i2.NSError? error) =>
+      (super.noSuchMethod(
+            Invocation.method(#didFailWithError, [error]),
+            returnValue: _i3.Future<void>.value(),
+            returnValueForMissingStub: _i3.Future<void>.value(),
+          )
+          as _i3.Future<void>);
+
+  @override
+  _i2.WKURLSchemeTask pigeon_copy() =>
+      (super.noSuchMethod(
+            Invocation.method(#pigeon_copy, []),
+            returnValue: _FakeWKURLSchemeTask_7(
+              this,
+              Invocation.method(#pigeon_copy, []),
+            ),
+            returnValueForMissingStub: _FakeWKURLSchemeTask_7(
+              this,
+              Invocation.method(#pigeon_copy, []),
+            ),
+          )
+          as _i2.WKURLSchemeTask);
 
   @override
   _i3.Future<void> addObserver(
@@ -579,11 +857,11 @@ class MockWKPreferences extends _i1.Mock implements _i2.WKPreferences {
   _i2.WKPreferences pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeWKPreferences_5(
+            returnValue: _FakeWKPreferences_8(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeWKPreferences_5(
+            returnValueForMissingStub: _FakeWKPreferences_8(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
@@ -665,11 +943,11 @@ class MockWKScriptMessageHandler extends _i1.Mock
   _i2.WKScriptMessageHandler pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeWKScriptMessageHandler_6(
+            returnValue: _FakeWKScriptMessageHandler_9(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeWKScriptMessageHandler_6(
+            returnValueForMissingStub: _FakeWKScriptMessageHandler_9(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
@@ -771,11 +1049,11 @@ class MockWKUserContentController extends _i1.Mock
   _i2.WKUserContentController pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeWKUserContentController_7(
+            returnValue: _FakeWKUserContentController_10(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeWKUserContentController_7(
+            returnValueForMissingStub: _FakeWKUserContentController_10(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
@@ -862,11 +1140,11 @@ class MockWKUserScript extends _i1.Mock implements _i2.WKUserScript {
   _i2.WKUserScript pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeWKUserScript_8(
+            returnValue: _FakeWKUserScript_11(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeWKUserScript_8(
+            returnValueForMissingStub: _FakeWKUserScript_11(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
@@ -919,11 +1197,11 @@ class MockWKWebView extends _i1.Mock implements _i2.WKWebView {
   _i2.WKWebView pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeWKWebView_9(
+            returnValue: _FakeWKWebView_12(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeWKWebView_9(
+            returnValueForMissingStub: _FakeWKWebView_12(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
@@ -989,14 +1267,14 @@ class MockWKWebViewConfiguration extends _i1.Mock
       (super.noSuchMethod(
             Invocation.method(#getUserContentController, []),
             returnValue: _i3.Future<_i2.WKUserContentController>.value(
-              _FakeWKUserContentController_7(
+              _FakeWKUserContentController_10(
                 this,
                 Invocation.method(#getUserContentController, []),
               ),
             ),
             returnValueForMissingStub:
                 _i3.Future<_i2.WKUserContentController>.value(
-                  _FakeWKUserContentController_7(
+                  _FakeWKUserContentController_10(
                     this,
                     Invocation.method(#getUserContentController, []),
                   ),
@@ -1018,13 +1296,13 @@ class MockWKWebViewConfiguration extends _i1.Mock
       (super.noSuchMethod(
             Invocation.method(#getWebsiteDataStore, []),
             returnValue: _i3.Future<_i2.WKWebsiteDataStore>.value(
-              _FakeWKWebsiteDataStore_10(
+              _FakeWKWebsiteDataStore_13(
                 this,
                 Invocation.method(#getWebsiteDataStore, []),
               ),
             ),
             returnValueForMissingStub: _i3.Future<_i2.WKWebsiteDataStore>.value(
-              _FakeWKWebsiteDataStore_10(
+              _FakeWKWebsiteDataStore_13(
                 this,
                 Invocation.method(#getWebsiteDataStore, []),
               ),
@@ -1046,13 +1324,13 @@ class MockWKWebViewConfiguration extends _i1.Mock
       (super.noSuchMethod(
             Invocation.method(#getPreferences, []),
             returnValue: _i3.Future<_i2.WKPreferences>.value(
-              _FakeWKPreferences_5(
+              _FakeWKPreferences_8(
                 this,
                 Invocation.method(#getPreferences, []),
               ),
             ),
             returnValueForMissingStub: _i3.Future<_i2.WKPreferences>.value(
-              _FakeWKPreferences_5(
+              _FakeWKPreferences_8(
                 this,
                 Invocation.method(#getPreferences, []),
               ),
@@ -1096,14 +1374,14 @@ class MockWKWebViewConfiguration extends _i1.Mock
       (super.noSuchMethod(
             Invocation.method(#getDefaultWebpagePreferences, []),
             returnValue: _i3.Future<_i2.WKWebpagePreferences>.value(
-              _FakeWKWebpagePreferences_11(
+              _FakeWKWebpagePreferences_14(
                 this,
                 Invocation.method(#getDefaultWebpagePreferences, []),
               ),
             ),
             returnValueForMissingStub:
                 _i3.Future<_i2.WKWebpagePreferences>.value(
-                  _FakeWKWebpagePreferences_11(
+                  _FakeWKWebpagePreferences_14(
                     this,
                     Invocation.method(#getDefaultWebpagePreferences, []),
                   ),
@@ -1112,14 +1390,26 @@ class MockWKWebViewConfiguration extends _i1.Mock
           as _i3.Future<_i2.WKWebpagePreferences>);
 
   @override
+  _i3.Future<void> setURLSchemeHandler(
+    _i2.WKURLSchemeHandler? handler,
+    String? urlScheme,
+  ) =>
+      (super.noSuchMethod(
+            Invocation.method(#setURLSchemeHandler, [handler, urlScheme]),
+            returnValue: _i3.Future<void>.value(),
+            returnValueForMissingStub: _i3.Future<void>.value(),
+          )
+          as _i3.Future<void>);
+
+  @override
   _i2.WKWebViewConfiguration pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeWKWebViewConfiguration_12(
+            returnValue: _FakeWKWebViewConfiguration_15(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeWKWebViewConfiguration_12(
+            returnValueForMissingStub: _FakeWKWebViewConfiguration_15(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
@@ -1182,11 +1472,11 @@ class MockWKWebpagePreferences extends _i1.Mock
   _i2.WKWebpagePreferences pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeWKWebpagePreferences_11(
+            returnValue: _FakeWKWebpagePreferences_14(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeWKWebpagePreferences_11(
+            returnValueForMissingStub: _FakeWKWebpagePreferences_14(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
@@ -1224,11 +1514,11 @@ class MockUIViewWKWebView extends _i1.Mock implements _i2.UIViewWKWebView {
   _i2.WKWebViewConfiguration get configuration =>
       (super.noSuchMethod(
             Invocation.getter(#configuration),
-            returnValue: _FakeWKWebViewConfiguration_12(
+            returnValue: _FakeWKWebViewConfiguration_15(
               this,
               Invocation.getter(#configuration),
             ),
-            returnValueForMissingStub: _FakeWKWebViewConfiguration_12(
+            returnValueForMissingStub: _FakeWKWebViewConfiguration_15(
               this,
               Invocation.getter(#configuration),
             ),
@@ -1239,11 +1529,11 @@ class MockUIViewWKWebView extends _i1.Mock implements _i2.UIViewWKWebView {
   _i2.UIScrollView get scrollView =>
       (super.noSuchMethod(
             Invocation.getter(#scrollView),
-            returnValue: _FakeUIScrollView_1(
+            returnValue: _FakeUIScrollView_3(
               this,
               Invocation.getter(#scrollView),
             ),
-            returnValueForMissingStub: _FakeUIScrollView_1(
+            returnValueForMissingStub: _FakeUIScrollView_3(
               this,
               Invocation.getter(#scrollView),
             ),
@@ -1269,11 +1559,11 @@ class MockUIViewWKWebView extends _i1.Mock implements _i2.UIViewWKWebView {
   _i2.WKWebViewConfiguration pigeonVar_configuration() =>
       (super.noSuchMethod(
             Invocation.method(#pigeonVar_configuration, []),
-            returnValue: _FakeWKWebViewConfiguration_12(
+            returnValue: _FakeWKWebViewConfiguration_15(
               this,
               Invocation.method(#pigeonVar_configuration, []),
             ),
-            returnValueForMissingStub: _FakeWKWebViewConfiguration_12(
+            returnValueForMissingStub: _FakeWKWebViewConfiguration_15(
               this,
               Invocation.method(#pigeonVar_configuration, []),
             ),
@@ -1284,11 +1574,11 @@ class MockUIViewWKWebView extends _i1.Mock implements _i2.UIViewWKWebView {
   _i2.UIScrollView pigeonVar_scrollView() =>
       (super.noSuchMethod(
             Invocation.method(#pigeonVar_scrollView, []),
-            returnValue: _FakeUIScrollView_1(
+            returnValue: _FakeUIScrollView_3(
               this,
               Invocation.method(#pigeonVar_scrollView, []),
             ),
-            returnValueForMissingStub: _FakeUIScrollView_1(
+            returnValueForMissingStub: _FakeUIScrollView_3(
               this,
               Invocation.method(#pigeonVar_scrollView, []),
             ),
@@ -1479,11 +1769,11 @@ class MockUIViewWKWebView extends _i1.Mock implements _i2.UIViewWKWebView {
   _i2.UIViewWKWebView pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeUIViewWKWebView_13(
+            returnValue: _FakeUIViewWKWebView_16(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeUIViewWKWebView_13(
+            returnValueForMissingStub: _FakeUIViewWKWebView_16(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
@@ -1540,11 +1830,11 @@ class MockWKWebsiteDataStore extends _i1.Mock
   _i2.WKHTTPCookieStore get httpCookieStore =>
       (super.noSuchMethod(
             Invocation.getter(#httpCookieStore),
-            returnValue: _FakeWKHTTPCookieStore_14(
+            returnValue: _FakeWKHTTPCookieStore_17(
               this,
               Invocation.getter(#httpCookieStore),
             ),
-            returnValueForMissingStub: _FakeWKHTTPCookieStore_14(
+            returnValueForMissingStub: _FakeWKHTTPCookieStore_17(
               this,
               Invocation.getter(#httpCookieStore),
             ),
@@ -1570,11 +1860,11 @@ class MockWKWebsiteDataStore extends _i1.Mock
   _i2.WKHTTPCookieStore pigeonVar_httpCookieStore() =>
       (super.noSuchMethod(
             Invocation.method(#pigeonVar_httpCookieStore, []),
-            returnValue: _FakeWKHTTPCookieStore_14(
+            returnValue: _FakeWKHTTPCookieStore_17(
               this,
               Invocation.method(#pigeonVar_httpCookieStore, []),
             ),
-            returnValueForMissingStub: _FakeWKHTTPCookieStore_14(
+            returnValueForMissingStub: _FakeWKHTTPCookieStore_17(
               this,
               Invocation.method(#pigeonVar_httpCookieStore, []),
             ),
@@ -1600,11 +1890,11 @@ class MockWKWebsiteDataStore extends _i1.Mock
   _i2.WKWebsiteDataStore pigeon_copy() =>
       (super.noSuchMethod(
             Invocation.method(#pigeon_copy, []),
-            returnValue: _FakeWKWebsiteDataStore_10(
+            returnValue: _FakeWKWebsiteDataStore_13(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
-            returnValueForMissingStub: _FakeWKWebsiteDataStore_10(
+            returnValueForMissingStub: _FakeWKWebsiteDataStore_13(
               this,
               Invocation.method(#pigeon_copy, []),
             ),
